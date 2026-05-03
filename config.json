@@ -5,25 +5,24 @@
     "initialOverlayOpacity": 0.5,
     "minDate": "2024-01-01",
     "routeVisualMode": 0,
-    "railStationAmberThreshold": 10000,
-    "fucntion": 0111001110000111
+    "railStationAmberThreshold": 10000
   },
   "regions": {
     "UK": {
       "label": "United Kingdom",
       "monthlyDefaults": [
-        { "month": "Jan", "start": "11:30", "duration": 4.50 },
+        { "month": "Jan", "start": "11:30", "duration": 4.5 },
         { "month": "Feb", "start": "11:30", "duration": 5.25 },
-        { "month": "Mar", "start": "11:15", "duration": 6.00 },
+        { "month": "Mar", "start": "11:15", "duration": 6.0 },
         { "month": "Apr", "start": "11:00", "duration": 6.75 },
         { "month": "May", "start": "10:45", "duration": 7.75 },
         { "month": "Jun", "start": "10:30", "duration": 9.25 },
         { "month": "Jul", "start": "10:30", "duration": 9.25 },
-        { "month": "Aug", "start": "10:45", "duration": 8.50 },
-        { "month": "Sep", "start": "11:00", "duration": 8.00 },
-        { "month": "Oct", "start": "11:30", "duration": 6.00 },
-        { "month": "Nov", "start": "11:30", "duration": 5.00 },
-        { "month": "Dec", "start": "11:30", "duration": 4.00 }
+        { "month": "Aug", "start": "10:45", "duration": 8.5 },
+        { "month": "Sep", "start": "11:00", "duration": 8.0 },
+        { "month": "Oct", "start": "11:30", "duration": 6.0 },
+        { "month": "Nov", "start": "11:30", "duration": 5.0 },
+        { "month": "Dec", "start": "11:30", "duration": 4.0 }
       ]
     }
   },

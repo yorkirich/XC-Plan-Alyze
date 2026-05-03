@@ -5,7 +5,8 @@
     "initialOverlayOpacity": 0.5,
     "minDate": "2024-01-01",
     "routeVisualMode": 0,
-    "railStationAmberThreshold": 10000
+    "railStationAmberThreshold": 10000,
+    "weatherkey": "0A4RB7XC"
   },
   "regions": {
     "UK": {

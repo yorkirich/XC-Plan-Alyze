@@ -10,7 +10,7 @@
     "defaultCountry": "UK",
     "airspaceFileRetention": 30,
     "localDbName": "xcPlanAlyze",
-    "LocalStoreName":"exernalData"
+    "localStoreName":"exernalData"
   },
   "map": {
     "initialView": {

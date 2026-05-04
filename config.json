@@ -7,7 +7,8 @@
     "routeVisualMode": 0,
     "railStationAmberThreshold": 10000,
     "weatherkey": "0A4RQ7XC",
-    "defaultCountry": "UK"
+    "defaultCountry": "UK",
+    "airspaceFileRetention": 14
   },
   "map": {
     "initialView": {

@@ -8,7 +8,9 @@
     "railStationAmberThreshold": 10000,
     "weatherkey": "0A4RQ7XC",
     "defaultCountry": "UK",
-    "airspaceFileRetention": 30
+    "airspaceFileRetention": 30,
+    "localDbName": "xcPlanAlyze",
+    "LocalStoreName":"exernalData"
   },
   "map": {
     "initialView": {

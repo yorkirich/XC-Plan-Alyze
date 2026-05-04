@@ -8,7 +8,7 @@
     "railStationAmberThreshold": 10000,
     "weatherkey": "0A4RQ7XC",
     "defaultCountry": "UK",
-    "airspaceFileRetention": 7
+    "airspaceFileRetention": 30
   },
   "map": {
     "initialView": {

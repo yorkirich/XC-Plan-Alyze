@@ -91,7 +91,7 @@
       { "id": "800", "label": "800mb", "isDefault": false, "includeInAverage": false },
       { "id": "850", "label": "850mb", "isDefault": false, "includeInAverage": true },
       { "id": "950", "label": "950mb", "isDefault": false, "includeInAverage": true },
-      { "id": "1000", "label": "1000mb", "isDefault": false, "includeInAverage": true }
+      { "id": "1000", "label": "1000mb", "isDefault": false, "includeInAverage": false }
     ]
   },
   "airspace": {

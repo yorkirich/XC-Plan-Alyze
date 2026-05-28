@@ -80,8 +80,8 @@
   },
   "weather": {
     "forecastModels": [
-      { "id": "ukmo_seamless", "label": "UKV" },
       { "id": "gfs_seamless", "label": "GFS" },
+      { "id": "ukmo_seamless", "label": "UKV" },
       { "id": "best_match", "label": "Best Match" },
       { "id": "icon_seamless", "label": "DWD-ICON" }
     ],

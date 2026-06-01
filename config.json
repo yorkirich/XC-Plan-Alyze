@@ -125,7 +125,7 @@
     },
     "overlays": {
       "RES": { "label": "UK2", "desc": "Forecast Resolution", "pinned": true, "position": 0, "fixed": true, "action": "CYCLERES" },
-      "REP": { "label": "19", "desc": "Repository", "pinned": false, "position": 1, "fixed": true, "action": "FLIPREP" },
+      "REP": { "label": "19", "desc": "Repository", "pinned": true, "position": 1, "fixed": true, "action": "FLIPREP" },
       "Z": { "label": "Z", "desc": "RASP Stars", "file": "stars", "pinned": true, "position": 2 },
       "S2": { "label": "S2", "desc": "Sfc. Wind (2m)", "file": "sfcwind0", "pinned": true, "position": 3 }
       "W": { "label": "W", "desc": "Boundary Layer Average Wind", "file": "blwind", "pinned": true, "position": 4 },

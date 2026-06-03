@@ -129,7 +129,7 @@
       "Z": { "label": "Z", "desc": "RASP Stars", "file": "stars", "pinned": true, "position": 2 },
       "S2": { "label": "S2", "desc": "Sfc. Wind (2m)", "file": "sfcwind0", "pinned": true, "position": 3 },
       "W": { "label": "W", "desc": "Boundary Layer Average Wind", "file": "blwind", "pinned": true, "position": 4 },
-      "C": { "label": "C", "desc": "Cumulus Cloudbase", "file": "zsfclclmask", "pinned": false, "position": 5},
+      "C": { "label": "C", "desc": "Cumulus Cloudbase", "file": "zsfclclmask", "pinned": true, "position": 5},
       " ": { "label": " ", "desc": "no overlay", "file": "none", "pinned": true, "position": 6, "fixed": true },
       "...": { "label": "...", "desc": "more layers", "file": "none", "pinned": true, "position": 7, "fixed": true },
       "T": { "label": "T", "desc": "Thermal Strength", "file": "wstar", "pinned": false, "position": 8},

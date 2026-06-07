@@ -11,7 +11,21 @@
     "airspaceFileRetention": 30,
     "localDbName": "xcPlanAlyze",
     "localStoreName":"exernalData",
-    "triangleAssistantDistance": "100"
+    "triangleAssistantDistance": "100",
+    "overlayTransition": "blend",
+    "maxVerticalSpeedThreshold": 50,
+    "maxSimultaneousReplay": 10,
+    "maxCacheSize": 25,
+    "currentUnits": { 
+      "distance": "km", 
+      "speed": "kmh", 
+      "altitude": "ft", 
+      "vario": "ms", 
+      "wind": "kmh" 
+    }
+  },
+  "terrain": {
+    "terrariumUrl": "https://elevation-data-proxy.richard-meek64.workers.dev/terrarium/{z}/{x}/{y}.png"
   },
   "map": {
     "initialView": {
